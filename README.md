@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Nothing here would impress you, but in the near future there would be. I'm on my way to put some stuff up here.  
 <!--
 **CongNguyenBa/CongNguyenBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
