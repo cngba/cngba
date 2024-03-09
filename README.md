@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@0abf4305-fb39-463a-b505-a9bd9d9797a3"><img src="https://wakatime.com/badge/user/0abf4305-fb39-463a-b505-a9bd9d9797a3" alt="Total time coded" /></a>
+[![wakatime](https://wakatime.com/badge/user/018e2184-f9a2-4dc0-a678-ee0acdc2909c.svg)](https://wakatime.com/@018e2184-f9a2-4dc0-a678-ee0acdc2909c)
 
 <!--
 **CongNguyenBa/CongNguyenBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
