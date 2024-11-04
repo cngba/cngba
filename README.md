@@ -1,4 +1,7 @@
+GitHub's stranger
+
 [![wakatime](https://wakatime.com/badge/user/018e2184-f9a2-4dc0-a678-ee0acdc2909c.svg)](https://wakatime.com/@018e2184-f9a2-4dc0-a678-ee0acdc2909c)
+
 
 <!--
 **CongNguyenBa/CongNguyenBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
